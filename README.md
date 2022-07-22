@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+- Solution URL: [Click here](https://m-josh.github.io/frontendMentor_productPreviewCardComponent/)
 
 ### Built with
 
